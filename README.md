@@ -2,7 +2,8 @@
 
 **Push-to-talk speech-to-text for macOS and Linux, in a single Go binary.**
 
-A minimal-dependency rewrite of [stt](https://github.com/bokan/stt): hold a key,
+A minimal-dependency rewrite of [stt](https://github.com/jamesob/stt) (my fork
+of [bokan/stt](https://github.com/bokan/stt)): hold a key,
 speak, release — your words are typed wherever your cursor is. Transcription is
 done by **your own self-hosted, OpenAI-compatible server**; no cloud APIs, no
 Python, no model runtimes on the laptop.
